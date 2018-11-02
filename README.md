@@ -12,9 +12,9 @@ Who are the most popular article authors of all time? That is, when you sum up a
 On which days did more than 1% of requests lead to errors? The log table includes a column status that indicates the HTTP status code that the news site sent to the user's browser.
 
 # PreRequisites:
-Python3
-Vagrant
-VirtualBox
+- Python3
+- Vagrant
+- VirtualBox
 
 # How to run this Project:
 - Clone/Download this repository
